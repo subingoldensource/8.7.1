@@ -31,3 +31,5 @@ Refer to following topics in _Securities Online Help_ for the detailed informati
 *   Entity Details Screen
 *   Templates Configuration
 *   Working with UI
+
+This is a new secntence
