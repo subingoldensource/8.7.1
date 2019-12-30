@@ -1,5 +1,5 @@
-Overview - DataLineage
-======================
+2 Overview - DataLineage
+========================
 
 This chapter describes how you can view the life cycle of data; starting from its origin to how it moves over a period of time. You can also learn about how data is processed as it undergoes diverse processes. Data Lineage helps you to analyze how information is used and track the key bits of information that serve a particular purpose.
 
@@ -7,12 +7,12 @@ Click ![](http://indoc01:8888/miscellaneousuihelp/26228-GSC/version/default/part
 
 *   Traceability
 
-Traceability
-------------
+2.1 Traceability
+----------------
 
 Traceability is used to trace the life cycle of a vendor field in GoldenSource system. The system traces all the paths that the field could possibly take at any given condition. This section describes the fields displayed on the User Interface (UI) screens. The metadata is generated on the Traceability screen that helps the system to trace the data. The metadata which is required to trace the field to the screens on the Workstation UI is generated while building the screens. The required scripts are generated and the loadModel task is used to upload the data to the database. Follow the same process to develop the custom screens.
 
-### Enabling Traceability
+### 2.1.1 Enabling Traceability
 
 To enable traceability, you need to populate the FT\_T\_EMAP and FT\_BE\_BFVD tables. Perform the following steps to enable traceability:
 
